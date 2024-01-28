@@ -6,6 +6,9 @@ This is a demo Machine Learning repository consist of few algorithms
 - Classification
 - Decision Tree
 
+Rishika bhunia
+=======
+
 
 -SOUMYA KARMAKAR
 =======
