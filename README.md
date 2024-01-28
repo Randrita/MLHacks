@@ -7,4 +7,4 @@ This is a demo Machine Learning repository consist of few algorithms
 - Decision Tree
 
 
--My Name is Prasant Agrahari
+- My Name is Prasant Agrahari
